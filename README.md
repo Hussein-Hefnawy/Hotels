@@ -1,2 +1,1 @@
-# Hotels
-Data Analyst Project - Hotels Reservations
+# Hotels Reservations Data Analyst Project
